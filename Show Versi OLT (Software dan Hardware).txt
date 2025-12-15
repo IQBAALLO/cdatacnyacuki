@@ -1,0 +1,22 @@
+show versions
+
+OLT-CMTOFC2# show version
+OLT-standard-reserved
+C-Data System Software
+Software version V3.3.21
+GPON OLT uptime is 1 weeks, 0 days, 4 hours, 29 minutes.
+GPON OLT with 1 Processor
+2044M  bytes SDRAM
+8415M  bytes FLASH
+BKP version information:
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Hardware version : V1.1
+Firmware version : V3.3.21_250606
+Web      version : V3.4.6_250610
+Device   csm     : X001
+- - - - - - - - - - - - - -
+Slot  Hardware version
+- - - - - - - - - - - - - -
+0     V1.1
+1     V1.1
+2     ----
