@@ -1,0 +1,33 @@
+show ont version x x
+
+contoh output:
+show ont version 1(port gpon) 1(onu id)
+  Frame/Slot                     : 0/1
+  Port                           : 1
+  ONT-ID                         : 1
+  Vendor-ID                      : ELWG
+  ONT Version                    : V8.0
+  Product-ID                     : 0000
+  Equipment-ID                   : F660V8.0
+  Main Software Version          : V1.0.10P1T20
+  Main Software is commit        : yes
+  Main Software is active        : yes
+  Standby Software Version       :
+  Standby Software is commit     : no
+  Standby Software is active     : no
+
+contoh output lagi dari:
+show ont version 1(port gpon) 2(onu id)
+  Frame/Slot                     : 0/1
+  Port                           : 1
+  ONT-ID                         : 2
+  Vendor-ID                      : HWTC
+  ONT Version                    : V9.0
+  Product-ID                     : 02FFFFFFFE
+  Equipment-ID                   : F680C
+  Main Software Version          : V9.0.0P1T6
+  Main Software is commit        : yes
+  Main Software is active        : yes
+  Standby Software Version       : V9.0.0P1T6
+  Standby Software is commit     : no
+  Standby Software is active     : no
