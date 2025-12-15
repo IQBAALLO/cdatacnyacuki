@@ -1,0 +1,12 @@
+show ont info all
+
+OLT-CMTOFC2# show ont info all
+--------------------------------------------------------------------------------------------------
+  F/S P   Channel    ONT    SN               Control  Run     Config    Match     Last       Desc
+        (0:10g;1:1g) ID                      flag     state   state     state     down-cause
+--------------------------------------------------------------------------------------------------
+  0/1 1      -       1      ELWGC226F91D     Active   Online  success   match     LOS
+  0/1 1      -       2      HWTC072FB19F     Active   Online  success   match     --
+--------------------------------------------------------------------------------------------------
+  Total: 2,  online: 2,  deactive: 0,  success: 2 , failed: 0
+OLT-CMTOFC2#
